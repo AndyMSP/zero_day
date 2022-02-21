@@ -1,2 +1,2 @@
 # zero_day
-updated line
+My first GitHub repository as a software engineering student.
