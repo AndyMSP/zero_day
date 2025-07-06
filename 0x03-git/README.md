@@ -1,2 +1,2 @@
-0x03-git
-I am updating from github
+# 0x03-git
+In this project we use basic functionality of git and gitHub
